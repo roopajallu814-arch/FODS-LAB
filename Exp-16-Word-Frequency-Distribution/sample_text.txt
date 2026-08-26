@@ -1,0 +1,1 @@
+Python is easy to learn. Python is useful for data science. Data science is useful for students. Python is widely used in data science.
